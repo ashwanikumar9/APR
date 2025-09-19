@@ -1,9 +1,3 @@
-<!-- PROJECT SHIELD BADGES -->
-![Stars](https://img.shields.io/github/stars/avijit004/fake-news-detection?style=social)
-![Forks](https://img.shields.io/github/forks/avijit004/fake-news-detection?style=social)
-![Issues](https://img.shields.io/github/issues/avijit004/fake-news-detection)
-![Last Commit](https://img.shields.io/github/last-commit/avijit004/fake-news-detection)
-![License](https://img.shields.io/github/license/avijit004/fake-news-detection)
 
 <!-- PROJECT TITLE -->
 <h1 align="center">📰 Fake News Detection | Logistic Regression</h1>
@@ -39,7 +33,7 @@
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/avijit004/fake-news-detection.git
+git clone https://github.com/ashwanikumar9/APR/Assignment1.git
 cd fake-news-detection
 
 # 2️⃣ Install dependencies
