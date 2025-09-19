@@ -3,8 +3,8 @@
 <h1 align="center">📰 Fake News Detection | Logistic Regression</h1>
 
 <p align="center">
-  <b>Detecting fake news using Machine Learning & NLP.</b><br>
-  <i>Logistic Regression | NLP Preprocessing | TF-IDF | Model Evaluation | Visualizations</i>
+  <b>Detecting fake news using Machine Learning</b><br>
+  <i>Logistic Regression | Model Evaluation | Visualizations</i>
 </p>
 
 ---
@@ -20,21 +20,12 @@
 
 ---
 
-## ✨ Screenshots
-
-<p align="center">
-  <img alt="Confusion Matrix" src="screenshots/confusion-matrix.png" width="350">
-  <img alt="ROC Curve" src="screenshots/roc-curve.png" width="350">
-</p>
-
----
-
 ## 🚀 Quick Start
 
 ```bash
 # 1️⃣ Clone the repository
 git clone https://github.com/ashwanikumar9/APR/Assignment1.git
-cd fake-news-detection
+cd Assignment1
 
 # 2️⃣ Install dependencies
 pip install -r requirements.txt
